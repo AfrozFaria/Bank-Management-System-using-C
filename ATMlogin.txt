@@ -1,2 +1,0 @@
-USER	Password
-faria	778
